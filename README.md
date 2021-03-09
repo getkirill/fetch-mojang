@@ -2,3 +2,7 @@
 Feed in client.json and get all stuff you need!
 ## Usage
 All examples shown using `yarn`, consider using it instead `npm`
+
+First of all, you need client.json. You can find one in Minecraft Wiki, or you can use default one (1.16.5). Then, you might want to adjust config.json.
+
+After initial setup done, run `yarn start`.

@@ -1,7 +1,7 @@
 {
     "clean": true,
     "fetch": {
-        "client": false,
+        "client": true,
         "server": false,
         "client_mappings": false,
         "server_mappings": false,
