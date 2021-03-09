@@ -1,11 +1,13 @@
 {
     "clean": true,
+    "version": "1.16",
     "fetch": {
-        "client": true,
+        "clientJson": true,
+        "client": false,
         "server": false,
         "client_mappings": false,
         "server_mappings": false,
-        "artifacts": true
+        "artifacts": false
     },
     "output": {
         "client": "client.jar",
