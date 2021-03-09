@@ -1,0 +1,9 @@
+{
+  "name": "fetch-mojang",
+  "version": "1.0.0",
+  "description": "client.json parser for minecraft",
+  "main": "index.js",
+  "repository": "https://github.com/getkirill/fetch-mojang.git",
+  "author": "Kraskaska <k.krasilnikov.2008@gmail.com>",
+  "license": "MIT"
+}
