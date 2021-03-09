@@ -1,0 +1,2 @@
+# fetch-mojang [![](https://img.shields.io/github/stars/getkirill/fetch-mojang?style=flat)](https://img.shields.io/github/stars/getkirill/fetch-mojang?style=flat)
+Feed in client.json and get all stuff you need!
