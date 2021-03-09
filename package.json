@@ -5,5 +5,12 @@
   "main": "index.js",
   "repository": "https://github.com/getkirill/fetch-mojang.git",
   "author": "Kraskaska <k.krasilnikov.2008@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "scripts": {
+      "start": "node --experimental-json-modules ."
+  }
 }

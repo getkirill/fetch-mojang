@@ -1,0 +1,17 @@
+{
+    "clean": true,
+    "fetch": {
+        "client": false,
+        "server": false,
+        "client_mappings": false,
+        "server_mappings": false,
+        "artifacts": true
+    },
+    "output": {
+        "client": "client.jar",
+        "server": "server.jar",
+        "client_mappings": "client-mappings.txt",
+        "server_mappings": "server-mappings.txt",
+        "artifacts": "artifacts/"
+    }
+}
