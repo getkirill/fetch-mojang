@@ -7,7 +7,7 @@
         "server": false,
         "client_mappings": false,
         "server_mappings": false,
-        "artifacts": false
+        "artifacts": true
     },
     "output": {
         "client": "client.jar",
